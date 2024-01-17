@@ -1,0 +1,1 @@
+package com.example.rickandmorty.data.modelclass BuildConfig {    companion object {        const val BASE_URL = "https://rickandmortyapi.com/api/"    }}
